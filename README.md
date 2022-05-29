@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joise71
 - 👀 I’m interested in learning programming and enrolling to this world from the world of marine navigation
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any of python projects or any kind of learning projects
+- 💞️ I’m looking to collaborate on any python project or any kind of learning projects
 - 📫 How to reach me: vyacheslav.tkachenko71@gmail.com // @joise71 telegram
 
 <!---
